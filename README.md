@@ -237,4 +237,4 @@ This repository serves as the official landing page for Kindle. The software is 
 **Get the most recent version of Kindle today!**
 
 ---
-**Last updated:** 2026-09-30 23:35:55 UTC
+**Last updated:** 2026-10-01 05:16:06 UTC
